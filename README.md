@@ -105,7 +105,7 @@ greeting = "Hello, world!" // We can assign any string value to greet
 *Javascript:*
 
 ```js
-let greeting; // greeting is defined but has not type. Actually it's type is 'undefined'
+let greeting; // greeting is defined but has no type. Actually it's type is 'undefined'
 greeting = "Hello, world!" // greeting is now a string with the value "Hello, world!"
 ```
 
